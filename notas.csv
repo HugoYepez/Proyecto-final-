@@ -1,0 +1,3 @@
+codigo_materia,nombre_materia,carrera,codigo_estudiante,nombre_estudiante,nota_p1,nota_p2,nota_p3
+1,matematica,ing,1,andres,4.00,3.00,2.00
+2,quimica,ingenieria ,23,Carlos,5.00,6.00,7.00
